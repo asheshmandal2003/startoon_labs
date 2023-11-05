@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.progress-bar {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
